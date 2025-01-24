@@ -1,0 +1,5 @@
+langchian
+langchian_community
+torch
+transformers
+langchian_ollama
