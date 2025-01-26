@@ -17,7 +17,7 @@ Ensure you have the following installed before setting up the project:
 
 - Python 3.8 or higher
 
-## Installation
+## Installation 
 
 1. Clone the repository:
    ```bash
