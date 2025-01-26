@@ -90,7 +90,7 @@ Ensure you have the following installed before setting up the project:
 
 ## Dependencies
 
-See `requirements.txt` for the full list of dependencies.
+See `requirements.txt` for the full list of dependencies!
 
 ## Contributing
 
