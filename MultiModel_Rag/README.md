@@ -11,7 +11,7 @@ This project implements a MultiModel Retrieval-Augmented Generation (RAG) pipeli
 - **LLM Integration**: Uses the Ollama LLM interface for query answering.
 - **Utilities**: Includes functions for image handling, progress visualization, and text splitting.
 
-## Prerequisites 
+## Prerequisites !
 
 Ensure you have the following installed before setting up the project:
 
