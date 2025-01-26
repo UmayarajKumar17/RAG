@@ -1,0 +1,31 @@
+# General Python libraries
+os
+io
+re
+uuid
+base64
+shutil
+requests==2.31.0
+tqdm==4.65.0
+
+# Image processing and visualization
+Pillow==9.5.0
+matplotlib==3.7.2
+IPython==8.15.0
+
+# PDF handling
+PyMuPDF==1.22.5
+
+# LangChain core and related dependencies
+langchain-core==0.2.2
+langchain-chroma==0.0.9
+langchain-ollama==0.0.3
+langchain-groq
+
+# HuggingFace embeddings
+sentence-transformers==2.2.2
+transformers==4.35.0
+torch==2.0.1
+
+# Optional: If using Jupyter Notebooks
+notebook==7.0.3
