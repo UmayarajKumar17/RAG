@@ -2,7 +2,7 @@
 
 This project implements a MultiModel Retrieval-Augmented Generation (RAG) pipeline using LangChain and other related libraries. The pipeline supports text processing, embeddings, document retrieval, and integration with large language models (LLMs) for advanced query-answering capabilities. Additionally, the project includes utilities for PDF parsing, text splitting, and embeddings generation.
 
-## Features
+## Features!
 
 - **PDF Handling**: Extracts text from PDFs using PyMuPDF (`fitz`).
 - **Embeddings**: Leverages HuggingFace embeddings for semantic representation.
