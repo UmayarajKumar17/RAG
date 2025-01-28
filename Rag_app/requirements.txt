@@ -1,0 +1,10 @@
+Flask==2.3.3
+langchain-community
+langchain-core
+langchain-ollama
+langchain-pinecone
+langchain-text-splitters
+huggingface-hub==0.17.2
+sentence-transformers==2.2.2
+python-dotenv==1.0.0
+pinecone-client==2.2.2
